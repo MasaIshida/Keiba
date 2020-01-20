@@ -1,0 +1,16 @@
+class Target():
+
+    horse_name = "horse_title"
+    prof_table = "db_prof_table"
+    blood = "blood_table"
+    race_list_table = "nk_tb_common race_table_01"
+    race_details_table = "race_table_01 nk_tb_common"
+    refund_table = "pay_table_01"
+    race_result_table = "race_table_01 nk_tb_common"
+    jockey_name = "db_head_name fc"
+    race_info = "smalltxt"
+    status_info = "diary_snap_cut"
+    grade_info = "mainrace_data fc"
+    hold_date_list = "race_list_header"
+    this_day_races = "RaceList_Box fc"
+    this_races_list = "race_top_hold_list"
