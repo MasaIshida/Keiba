@@ -7,9 +7,9 @@ class Mysql(object):
     # This param is 'localhost' then your PC set mysql
     PORT = 3306
     # Your mysql have PORT
-    USER = 'root'
+    USER = '#########'
     # You wont to use user
-    PASSWORD = 'Kimoto0715%'
+    PASSWORD = '#########'
     # Your mysql's password
     DATABASE = 'KEIBA'
     # You wont to use database name
